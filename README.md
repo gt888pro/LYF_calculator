@@ -32,7 +32,7 @@ A Python-based calculator for simulating leveraged yield farming strategies. Thi
 
 ## Usage
 
-You can access the app via this `[link](URL)`
+You can access the app via this `[link](https://lyfcalculator.streamlit.app/)`
 
 ---
 
